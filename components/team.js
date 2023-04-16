@@ -15,7 +15,7 @@ const Team = () => {
         <Card
           title="Chirayu Jain"
           desc="Backend Development"
-          imgURL="/img/chirayu.jpg"
+          imgURL="/img/chirayu.png"
           btnContent="explore more about Chirayu"
           btnURL="https://www.linkedin.com/in/chirayu-jain-5634bbab/"
         />
