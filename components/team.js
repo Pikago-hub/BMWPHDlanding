@@ -29,7 +29,7 @@ const Team = () => {
         <Card
           title="Jerry Wu"
           desc="Frontend Development"
-          imgURL="/img/Jerry.jpg"
+          imgURL="/img/Jerry.jpeg"
           btnContent="explore more about Jerry"
           btnURL="https://www.jerryzywu.com/"
         />
